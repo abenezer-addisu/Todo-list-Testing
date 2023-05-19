@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TO DO List <a name="about-project"></a>
+# 📖 TO DO List Test <a name="about-project"></a>
 
-**TO DO List** is a tool that helps to organize your day.
+**TO DO List Test** is a tool that helps to organize your day.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -117,9 +117,9 @@ You can deploy this project by pushing to your own `github page`
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **David**
+👤 **Abenezer**
 
-- GitHub: [@AbenezerAssefa](https://github.com/Abenezer-addisu)
+- GitHub: [@Abenezer](https://github.com/Abenezer-addisu)
 - LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-addisu)
 
 👤 **Phelelani Ndlovu**
