@@ -122,6 +122,13 @@ You can deploy this project by pushing to your own `github page`
 - GitHub: [@AbenezerAssefa](https://github.com/Abenezer-addisu)
 - LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-addisu)
 
+👤 **Phelelani Ndlovu**
+
+- GitHub: [@techmoves](https://github.com/techmoves)
+- Twitter: @Dopezonke_
+- LinkedIn: https://www.linkedin.com/in/phelelani-ndlovu-883916160/
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -159,6 +166,7 @@ If you like this project consider adding a ⭐️
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for giving me the opportunity to learn and grow as a developer.
+- Shout to code reviews as well
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
