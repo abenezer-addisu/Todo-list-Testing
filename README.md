@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TO DO List <a name="about-project"></a>
+# 📖 TO DO List Test <a name="about-project"></a>
 
-**TO DO List** is a tool that helps to organize your day.
+**TO DO List Test** is a tool that helps to organize your day.
 
 ## 🛠 Built With <a name="built-with"></a>
 
