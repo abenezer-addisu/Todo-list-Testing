@@ -117,9 +117,9 @@ You can deploy this project by pushing to your own `github page`
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **David**
+👤 **Abenezer**
 
-- GitHub: [@AbenezerAssefa](https://github.com/Abenezer-addisu)
+- GitHub: [@Abenezer](https://github.com/Abenezer-addisu)
 - LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-addisu)
 
 👤 **Phelelani Ndlovu**
